@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NIA Contact Card</string>
+    <string name="title">Netherlands Institute at Athens</string>
+    <string name="adress">Makri 11, 11742 Athens</string>
+    <string name="phone">+30 210 921 0760</string>
+    <string name="website">www.nia.gr</string>
+    <string name="email">nia@nia.gr</string>
+</resources>
